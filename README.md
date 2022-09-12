@@ -1,4 +1,4 @@
-# **LUGAH**
+# **LUGAHBOT**
 
 **Introduction**
 
