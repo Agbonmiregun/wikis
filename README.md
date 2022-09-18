@@ -8,9 +8,9 @@ Welcome to **Lugah**, a suite of AI powered digital assistants, capable of handl
 
 There are currently three versions of the **Lugah** products, developed to solved specific problems in various niche. The three varieties of **Lugah** currently available are;
 
-**Lugah Enterprise**
+# **Lugah Enterprise**
 
-**Lugah Entertainment**
+# **Lugah Entertainment**
 
 **Lugah Legacy**
 
