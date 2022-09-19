@@ -40,15 +40,26 @@ You may request for a 7 days free trial/demo of the application. This means that
 
 # *FAQ*
 What is Lugah Digital Assistant?
+
 How can Lugah help my business?
+
 How can my business integrate Lugah into our existing system?
+
 How can I build conversations for my bot using the application?
+
 What pricing plans do you have?
+
 Do I have to pay to renew my subscription every year?
+
 How do I download the DA?
+
 How long will I wait for when I request a demo?
+
 Can I cancel my subscription?
+
 Do you keep the credit card numbers on your server?
+
 Why do you ask me for my address and phone number?
+
 What Kind of system/devices does the Lugah Enterprise support?
 
